@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "scrollers",
+        "en": "Scrollers"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "axiasystems@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/wajdyz/tw-scrollers",
+    "components": []
+}
